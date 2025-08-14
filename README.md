@@ -8,5 +8,7 @@
 ```mvn test```
 
 
-### test CI to check if its work part 2 
+### test CI to check if its work part 3
 ``` testing ci ```
+
+## testing java app 
