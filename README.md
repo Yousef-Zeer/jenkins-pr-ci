@@ -9,7 +9,7 @@
 
 
 ### test CI to check if its work part 3
-``` testing ci ```
+``` testing ci 2 ```
 
 ## testing java app 
-## CI Section -- first project 
+## CI Section -- first project
